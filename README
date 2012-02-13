@@ -1,0 +1,12 @@
+****** Py LibreOffice Love Letter Writer *******
+
+Version 0.1 (13/02/2012) Kunal Deo (kunaldeo@gmail.com)
+
+A Love Letter Writer Extension for LibreOffice. 
+
+Requirements :
+LibreOffice 
+LibreOffice SDK, including Python UNO Library
+PyQT4
+
+
