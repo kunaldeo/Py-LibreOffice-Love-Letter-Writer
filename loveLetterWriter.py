@@ -1,5 +1,5 @@
 #   Py LibreOffice Love Letter Writer 0.1
-#  Copyright YEAR 2011  Kunal Deo  (email : kunaldeo@gmail.com)
+#  Copyright YEAR 2012  Kunal Deo  (email : kunaldeo@gmail.com)
 
 #   This program is free software; you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License, version 2, as 
